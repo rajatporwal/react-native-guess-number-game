@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { FlatList, View, Text, StyleSheet, Alert } from "react-native"
+import { FlatList, View, StyleSheet, Alert } from "react-native"
 import NumberContainer from "../components/game/NumberContainer";
 import Card from "../components/ui/Card";
 import InstructionText from "../components/ui/InstructionText";
